@@ -6,4 +6,5 @@ class Ball(Shape):
         self.y_vel = y_vel
         self.max_y_vel = y_vel
         self.radius = radius
+        radius
         super().__init__(xcor, ycor, color, sqrt(x_vel**2+y_vel**2))
